@@ -13,6 +13,15 @@
     'images' : [],
     'depends' : [],
     'data': [
+        #security
+        "security/ir.model.access.csv",
+        
+        #views
+        "views/student.xml",
+        
+        #menu
+        
+        "views/menu.xml",
 
     ],
     'demo': [
